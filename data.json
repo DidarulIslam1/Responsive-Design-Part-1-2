@@ -1,0 +1,226 @@
+[
+    {
+        "id": "1",
+        "price": 380.95,
+        "img": "../images/Google-Pixel-Watch-White.jpg",
+        "name": "Google Pixel Watch White",
+        "modalName": "Google Pixel Watch White",
+        "details": {
+            "date": "2023, August",
+            "os": "Android Wear OS 3.5",
+            "camera": "No",
+            "ram": "2GB RAM Exynos 9110",
+            "battery": "294mAh Li-ion"
+        }
+    },
+    {
+        "id": "2",
+        "price": 399.99,
+        "img": "../images/Google-Pixel-Watch-Green.jpg",
+        "name": "Google Pixel Watch Green",
+        "modalName": "Google Pixel Watch Green",
+        "details": {
+            "date": "2022, October 13",
+            "os": "Android Wear OS 3.5",
+            "display": "1.2inch 450*450 pixels",
+            "camera": "No",
+            "ram": "2GB RAM Exynos 9110",
+            "battery": "294mAh Li-ion"
+        }
+    },
+    {
+        "id": "3",
+        "price": 2190.47,
+        "img": "../images/Google-Pixel-Fold-1.jpg",
+        "name": "Google Pixel Fold 1",
+        "modalName": "Google Pixel Fold 1",
+        "details": {
+            "date": "2023, June 27",
+            "os": "Android 13",
+            "display": "7.6in 1840*2208 pixels",
+            "camera": "48MP 2160p",
+            "ram": "12GB RAM Google Tensor G2",
+            "battery": "4821mAh Li-Po"
+        }
+    },
+    {
+        "id": "4",
+        "price": 800.5,
+        "img": "../images/Google-Pixel-7-Pro-Hazel.jpg",
+        "name": "Google Pixel 7 Pro",
+        "modalName": "Google Pixel 7 Pro Hazel",
+        "details": {
+            "date": "2022, October 13",
+            "os": "Android 13",
+            "display": "6.7in 1440*3120 pixels",
+            "camera": "50MP 2160p",
+            "ram": "12GB RAM Google Tensor G2",
+            "battery": "5003mAh Li-ion"
+        }
+    },
+    {
+        "id": "5",
+        "price": 476.19,
+        "img": "../images/Google-Pixel-7a.jpg",
+        "name": "Google Pixel 7a",
+        "modalName": "Google Pixel 7a",
+        "details": {
+            "date": "2022, October 13",
+            "os": "Android 13",
+            "display": "6.32in 1080*2400 pixels",
+            "camera": "50MP 2160p",
+            "ram": "8GB RAM Google Tensor G2",
+            "battery": "4355mAh Li-ion"
+        }
+    },
+    {
+        "id": "6",
+        "price": 761.90,
+        "img": "../images/Google-Pixel-Tablet.jpg",
+        "name": "Google Pixel Tablet",
+        "modalName": "Google Pixel Tablet",
+        "details": {
+            "date": "2023, June 20",
+            "os": "Android 13",
+            "display": "10.95in 1080p",
+            "camera": "50MP 2160p",
+            "ram": "8GB RAM Google Tensor G2",
+            "battery": "7020mAh li-ion"
+        }
+    },
+    {
+        "id": "7",
+        "price": 495.23,
+        "img": "../images/Google-Pixel-6-Pro-Cloudy-White.jpg",
+        "name": "Google Pixel 6 Pro",
+        "modalName": "Google Pixel 6 Pro Cloudy White",
+        "details": {
+            "date": "2021, October 28",
+            "os": "Android 12",
+            "display": "6.71in 1440*3120p",
+            "camera": "50MP 2160p",
+            "ram": "12GB RAM Google Tensor",
+            "battery": "5003mAh Li-Po"
+        }
+    },
+    {
+        "id": "8",
+        "price": 347.61,
+        "img": "../images/Google-Pixel-6a-1.jpg",
+        "name": "Google Pixel 6a-1",
+        "modalName": "Google Pixel 6a-1",
+        "details": {
+            "date": "2022, July 21",
+            "os": "Android 12",
+            "display": "6.1in 1080*2400p",
+            "camera": "12MP 2160p",
+            "ram": "6GB RAM Google Tensor",
+            "battery": "4410mAh Li-Po"
+        }
+    },
+    {
+        "id": "9",
+        "price": 533.99,
+        "img": "../images/Google-Pixel-7-Lemongrass.jpg",
+        "name": "Google Pixel 7",
+        "modalName": "Google Pixel 7 Lemongrass",
+        "details": {
+            "date": "2022, October 13",
+            "os": "Android 13",
+            "display": "6.32in 1080*2400p",
+            "camera": "50MP 2160p",
+            "ram": "8GB RAM Google Tensor G2",
+            "battery": "4355mAh Li-ion"
+        }
+    },
+    {
+        "id": "10",
+        "price": 333.33,
+        "img": "../images/Google-Pixel-4a-5G-Just-Black.jpg",
+        "name": "Google Pixel 4a",
+        "modalName": "Google Pixel 4a 5G Just Black",
+        "details": {
+            "date": "2020, November 05",
+            "os": "Android 11",
+            "display": "6.2in 1080*2340p",
+            "camera": "16MP 2160p",
+            "ram": "6GB RAM Snapdragon 765G",
+            "battery": "3885mAh Li-Po"
+        }
+    },
+    {
+        "id": "11",
+        "price": 666.66,
+        "img": "../images/Google-Pixel-5-Green.jpg",
+        "name": "Google Pixel 5",
+        "modalName": "Google Pixel 5 Green",
+        "details": {
+            "date": "2020, October 15",
+            "os": "Android 11",
+            "display": "6.0in 1080*2340p",
+            "camera": "16MP 2160p",
+            "ram": "8GB RAM Snapdragon 765G",
+            "battery": "4080mAh Li-Po"
+        }
+    },
+    {
+        "id": "12",
+        "price": 414.28,
+        "img": "../images/Google-Pixel-5a-5G.jpg",
+        "name": "Google Pixel 5a",
+        "modalName": "Google Pixel 5a 5G",
+        "details": {
+            "date": "2021, August 26",
+            "os": "Android 11",
+            "display": "6.34in 1080*2400p",
+            "camera": "12MP 2160p",
+            "ram": "6GB RAM Snapdragon 765G",
+            "battery": "4680mAh Li-ion"
+        }
+    },
+    {
+        "id": "13",
+        "price": 185.71,
+        "img": "../images/Google-Pixel-3a-XL.jpg",
+        "name": "Google Pixel 3a XL",
+        "modalName": "Google Pixel 3a XL",
+        "details": {
+            "date": "2019, May",
+            "os": "Android 9.0",
+            "display": "6.0in 1080*2160p",
+            "camera": "12MP 2160p",
+            "ram": "4GB RAM Snapdragon 670",
+            "battery": "3700mAh Li-Po"
+        }
+    },
+    {
+        "id": "14",
+        "price": 333.23,
+        "img": "../images/Google-Pixel-3a.jpg",
+        "name": "Google Pixel 3a",
+        "modalName": "Google Pixel 3a",
+        "details": {
+            "date": "2019, May",
+            "os": "Android 9.0",
+            "display": "5.6in 1080*2220p",
+            "camera": "12MP 2160p",
+            "ram": "4GB RAM Snapdragon 670",
+            "battery": "3000mAh Li-Po"
+        }
+    },
+    {
+        "id": "15",
+        "price": 309.53,
+        "img": "../images/Google-Pixel-C.jpg",
+        "name": "Google Pixel C",
+        "modalName": "Google Pixel C",
+        "details": {
+            "date": "2015, December",
+            "os": "Android 12",
+            "display": "6.0.1in up to Android 8.0",
+            "camera": "8MP 1800p",
+            "ram": "3GB RAM Nvidia Tegra X1",
+            "battery": "9240mAh Li-Po"
+        }
+    }
+]
